@@ -1,6 +1,6 @@
 # Restroom Reviewer Snippet
 
-Here are code snippets from the restroom reviewer along with some gifs of the appliation in action.
+Check out these code snippets and application GIFs demonstrating the Restroom Reviewer in action!
 
 
 ## Files
