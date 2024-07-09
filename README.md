@@ -16,4 +16,4 @@ Here are code snippets from the restroom reviewer along with some gifs of the ap
 
 ## Demo
 
-![Demo](./gifs/workingReviewer.gif)
+![Demo](workingReviewer.gif)
