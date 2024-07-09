@@ -1,10 +1,7 @@
 # Restroom Reviewer Snippet
 
-Welcome to the Restroom Reviewer App repository! This repository contains files related to the development and maintenance of our restroom reviewing application.
+Here are code snippets from the restroom reviewer along with some gifs of the appliation in action.
 
-## Overview
-
-The Restroom Reviewer App is designed to allow users to review and rate restrooms based on their cleanliness, facilities, accessibility, and overall experience. This README provides an overview of the files included and how to navigate them.
 
 ## Files
 
