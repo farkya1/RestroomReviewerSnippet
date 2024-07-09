@@ -14,6 +14,10 @@ Here are code snippets from the restroom reviewer along with some gifs of the ap
 4. **SingleMarker.java**: The SingleMarker class encapsulates a map marker's position, title, and additional details, implementing the ClusterItem interface. It manages review scores, comments, and unique identifiers (uID) for each marker on the map.
 
 
-## Demo
+## App Demo
 
-![Demo](workingReviewer.gif)
+![AppDemo](workingReviewer.gif)
+
+## Clusters Demo
+
+![ClustersDemo](workingClusters.gif)
